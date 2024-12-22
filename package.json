@@ -1,13 +1,13 @@
 {
-  "name": "deltatech",
-  "version": "6.0",
+  "name": "DELTAV15",
+  "version": "15.0",
   "description": "SCRIPT VIP NO ENCRYPT",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "deltatechv13",
+  "author": "DELTAV15",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

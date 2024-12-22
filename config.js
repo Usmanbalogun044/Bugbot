@@ -1,20 +1,20 @@
-//my secript by @deltatech 𝐯𝟏𝟒
+//my secript by @deltatech 𝐕𝟏𝟓
 //not sale this script
 
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "ཀ͜͡༑ཀ𝐃𝐞𝐥𝐭𝐚⃟ 𝐯𝟏𝟒༑ཀ͜͡🇮🇩"
+global.storename = "𝐎𝐧𝐞𝐓𝐚𝐩𝐃𝐞𝐥𝐭𝐚𝐕𝟏𝟓🐉"
 global.dana = "chat admin"
 global.qris = "kosong"
 
 
 // GLOBAL SETTING
-global.owner = "6288809023312"
-global.namabot = "ཀ͜͡༑ཀ𝐃𝐞𝐥𝐭𝐚⃟ 𝐯𝟏𝟒🇮🇩"
-global.nomorbot = "6281939836226"
-global.nameCreator = "ཀ͜͡༑ཀ𝐃𝐞𝐥𝐭𝐚⃟༑ 𝐯𝟏𝟒ཀ͜͡🇮🇩💤"
-global.linkyt = "https://chat.whatsapp.com/BoUOWZufSKA07QmUB2zd2J"
+global.owner = "2348155481816"
+global.namabot = "𝐎𝐧𝐞𝐓𝐚𝐩𝐃𝐞𝐥𝐭𝐚𝐕𝟏𝟓🐉"
+global.nomorbot = "2348155481816"
+global.nameCreator = "𝐎𝐧𝐞𝐓𝐚𝐩𝐃𝐞𝐥𝐭𝐚𝐕𝟏𝟓🐉"
+global.linkyt = "https://whatsapp.com/channel/0029VahZdOy4inoll8oqQr2O"
 global.autoJoin = false
 global.antilink = true
 global.versisc = '30'
@@ -27,10 +27,10 @@ global.delayjpm = 5500
 //GLOBAL THUMB
 
 global.codeInvite = ""
-global.imageurl = 'https://pomf2.lain.la/f/wrk6cuul.jpg'
-global.isLink = "https://chat.whatsapp.com/BoUOWZufSKA07QmUB2zd2J"
-global.packname = "𝐃𝐞𝐥𝐭𝐚 𝐯𝟏𝟒🇮🇩"
-global.author = "ཀ͜͡༑ཀ𝐃𝐞𝐥𝐭𝐚⃟༑ 𝐯𝟏𝟒ཀ͜͡🇮🇩"
+global.imageurl = 'https://pomf2.lain.la/f/y9gjy0sz.jpg'
+global.isLink = "https://whatsapp.com/channel/0029VahZdOy4inoll8oqQr2O"
+global.packname = "𝐎𝐧𝐞𝐓𝐚𝐩𝐃𝐞𝐥𝐭𝐚𝐕𝟏𝟓🐉"
+global.author = "ཀ͡༑𝐎𝐧𝐞𝐓𝐚𝐩𝐃𝐞𝐥𝐭𝐚𝐕𝟏𝟓🐉"
 global.jumlah = "5"
 
 
